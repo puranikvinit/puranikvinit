@@ -5,3 +5,8 @@
 <h3 align="center">Meandering in the Machine Code Matrix...</h3>
 
 <br/>
+
+<div align="center">
+  <h2>My Contri Calendar</h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/puranikvinit/puranikvinit/output/github-contribution-grid-snake.svg" />
+</div>
